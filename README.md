@@ -10,7 +10,7 @@ Children crowd-source donations for various causes from friends and family - oft
 
 # Member name, role, email address/cell:
 * Pragyansmita Nayak (pragyansmita@gmail.com @SorishaPragyan)
-* Madlene Hamilton ()madleneh@gmail.com)
+* Madlene Hamilton (madleneh@gmail.com)
 
 Access the application via url: https://pragyansmita.shinyapps.io/
 

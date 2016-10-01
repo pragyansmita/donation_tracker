@@ -12,5 +12,5 @@ Children crowd-source donations for various causes from friends and family - oft
 * Pragyansmita Nayak (pragyansmita@gmail.com @SorishaPragyan)
 * Madlene Hamilton (madleneh@gmail.com)
 
-Access the application via url: https://pragyansmita.shinyapps.io/
+Access the application via url: https://pragyansmita.shinyapps.io/DonationTracker_Shiny/
 
